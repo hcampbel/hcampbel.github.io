@@ -1,0 +1,58 @@
+---
+title: "Handling native memory fragmentation of glibc"
+summary: Your workload consumption may suffer from native memory fragmentation.
+draft: true
+language: en
+---
+
+:source-highlighter: highlight.js
+:highlightjs-theme: github-dark
+// :highlightjs-languages: rust, swift, ruby
+
+
+.TODO
+- [ ] pmap inspector
+- [ ] glibc arenas (// cpu limit ?)
+- [ ] glibc thread cache introduced in 2.26 (ptmalloc2) (In glibc-2.26, TCache (per-thread cache), a new feature, was introduced in malloc.) ?
+- [ ] TCMalloc
+- [ ] Jemalloc
+
+.The Engineering of James Webb Space Telescope (Test)
+video::aICaAEXDJQQ[youtube]
+
+.Table Test
+[cols="1,1"]
+|===
+|Cell in column 1, row 1
+|Cell in column 2, row 1
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+
+|Cell in column 1, row 3
+|Cell in column 2, row 3
+|===
+
+.Optional title
+[example]
+This is an example of an example block.
+
+[source,ruby]
+----
+require 'sinatra'
+
+get '/hi' do
+  "Hello World!"
+end
+----
+
+
+NOTE: Test
+
+WARNING: Test
+
+IMPORTANT: Test
+
+[sidebar]
+Sidebars are used to visually separate auxiliary bits of content
+that supplement the main text.
