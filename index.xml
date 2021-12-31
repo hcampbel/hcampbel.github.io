@@ -16,24 +16,24 @@
         
         <item>
             <title>Site Revamp, 2022, and More!</title>
-            <link>https://hcampbel.github.io/2021/12/30/site-revamp-2022-and-more/</link>
-            <pubDate>Thu, 30 Dec 2021 23:47:55 -0500</pubDate>
+            <link>https://hcampbel.github.io/2021/12/31/site-revamp-2022-and-more/</link>
+            <pubDate>Fri, 31 Dec 2021 03:54:05 -0500</pubDate>
             <author>campbhu@gmail.com (Hugh Campbell)</author>
-            <guid>https://hcampbel.github.io/2021/12/30/site-revamp-2022-and-more/</guid>
-            <description>Hi there, friends! 👋👋👋
-   It has been one hell of a year, hasn’t it. Between attacking the US Capitol in the name of a con man, vaccines finally available for COVID-19, anti-vaxxers and love affairs with Ivermectin, anti-vaxxers claiming their Herman Cain Award, more extreme climate chnage events, withdrawl from Afghanistan ending 20 years of war for the US, etc. That still doesn’t touch on what Omicron may bring in early 2022 along with the January 6th Commission’s hearings and fact findings.</description>
+            <guid>https://hcampbel.github.io/2021/12/31/site-revamp-2022-and-more/</guid>
+            <description>Table of Contents 1. Introduction 2. Blog Work   1. Introduction Hi there, friends! 👋 👋 👋
+   It has been one hell of a year, hasn’t it. Between attacking the US Capitol in the name of a con man, vaccines finally available for COVID-19, anti-vaxxers and love affairs with Ivermectin, anti-vaxxers claiming their Herman Cain Award, more extreme climate chnage events, withdrawl from Afghanistan ending 20 years of war for the US, etc.</description>
         </item>
         
         
         
         <item>
-            <title></title>
-            <link>https://hcampbel.github.io/about/myself/</link>
+            <title>Who Am I?</title>
+            <link>https://hcampbel.github.io/whoami/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
             <author>campbhu@gmail.com (Hugh Campbell)</author>
-            <guid>https://hcampbel.github.io/about/myself/</guid>
-            <description>Hi there, friends! 👋
-What this blog is about This little blog of mine serves as my personal collection of thoughts traversing the world of systems and software engineering with particular focus towards cloud native, cloud computing, DevOps, infrastructure, information security, cybersecurity, and open source software. Things most likely to be discussed are Kubernetes and the CNCF ecosystem, public cloud platforms - primarily Amazon Web Services, Ansible, Terraform, Golang, Python, Rust, Haskell, Linux (Fedora and Red Hat Enterprise Linux mostly), QEMU/KVM, Filesystems and storage - mostly BTRFS, ZFS, Ceph , etc.</description>
+            <guid>https://hcampbel.github.io/whoami/</guid>
+            <description>Table of Contents 1. What this blog is about 2. Bio 3. Other things about me 4. Get on with it! 5. Changelog   Hi there, friends! 👋
+   1. What this blog is about This little blog of mine serves as my personal collection of thoughts traversing the world of systems and software engineering with particular focus towards cloud native, cloud computing, DevOps, infrastructure, information security, cybersecurity, and open source software.</description>
         </item>
         
         
