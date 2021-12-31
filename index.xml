@@ -8,9 +8,22 @@
         <language>en</language>
         <managingEditor>campbhu@gmail.com (Hugh Campbell)</managingEditor>
         <webMaster>campbhu@gmail.com (Hugh Campbell)</webMaster>
-        <lastBuildDate>Fri, 31 Dec 2021 03:54:05 -0500</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 11:30:36 -0500</lastBuildDate>
         
         <atom:link href="https://hcampbel.github.io/index.xml" rel="self" type="application/rss+xml" />
+        
+        
+        
+        <item>
+            <title>The Scratchpad Cybersecurity Year In Review for 2021</title>
+            <link>https://hcampbel.github.io/2021/12/31/cybersecurity-year-in-review-2021/</link>
+            <pubDate>Fri, 31 Dec 2021 11:35:26 -0500</pubDate>
+            <author>campbhu@gmail.com (Hugh Campbell)</author>
+            <guid>https://hcampbel.github.io/2021/12/31/cybersecurity-year-in-review-2021/</guid>
+            <description>Table of Contents 1. Introduction 2. The log4j exploit 3. Colonial Pipeline Attack 4. Peloton’s API Exploit 5. NSO Pegasus 6. Twitch involuntarily goes open source 7. Further Cybersecurity 2021 Review Readings 8.</description>
+        </item>
+        
+        
         
         
         

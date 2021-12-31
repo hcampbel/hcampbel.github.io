@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+    
+
+
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
+    <link rel="dns-prefetch" href="https://oss.maxcdn.com">
+    <link rel="dns-prefetch" href="https://www.gravatar.com">
+
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    
+    <link rel="canonical" href="https://hcampbel.github.io/2021/12/31/cybersecurity-year-in-review-2021/">
+    
+
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.91.2" />
+
+    
+    
+    
+
+<title>The Scratchpad Cybersecurity Year In Review for 2021 • Scratchpad</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta property="og:updated_time" content="2021-12-31T11:35:26-0500">
+
+
+
+<meta name="twitter:card" content="summary">
+
+<meta name="twitter:title" content="The Scratchpad Cybersecurity Year In Review for 2021">
+
+<meta name="twitter:description" content="2021 continued a lot of the chaos from 2020. One area in particular where the chaos was most apparent was in the cybersecurity and information security area. 2021 became the year where things like …">
+
+    
+
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.3.1/styles/github.min.css" media="(prefers-color-scheme: light)"><link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.3.1/styles/github-dark.min.css" media="(prefers-color-scheme: dark)">
+
+
+
+
+<link rel="stylesheet" href="/scss/ascii-press.2f32939edae8e7c3000067b8c2999d22000ec3c7f214cc6d7b9866924b0b8207.css" integrity="sha256-LzKTntro58MAAGe4wpmdIgAOw8fyFMxte5hmkksLggc=">
+
+
+<link rel="stylesheet" href="/scss/ascii-press-dark.8bc5e304b3c959cdc96d75fce2712a063b4888293dc8afc2686317b5e9ada689.css" integrity="sha256-i8XjBLPJWc3JbXX84nEqBjtIiCk9yK/CaGMXtemtpok=" media="(prefers-color-scheme: dark)">
+
+
+<link rel="stylesheet" href="/scss/print.2f225bcc8d05373a7e32f083e5a2c3b25348d1ce7b8b79d926198a4b91aa7706.css" integrity="sha256-LyJbzI0FNzp&#43;MvCD5aLDslNI0c57i3nZJhmKS5GqdwY=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Icons from https://realfavicongenerator.net -->
+<link rel="icon" href="/favicon.svg">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#b64f4f">
+<meta name="theme-color" content="#b64f4f">
+
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/v4-shims.min.css" integrity="sha512-KNosrY5jkv7dI1q54vqk0N3x1xEmEn4sjzpU1lWL6bv5VVddcYKQVhHV08468FK6eBBSXTwGlMMZLPTXSpHYHA==" crossorigin="anonymous" />
+
+    
+    
+
+</head>
+
+
+    <body class="">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://hcampbel.github.io/">Scratchpad</a>
+      </span>
+      
+        
+        
+        
+        <div class="author-image">
+          <img src="https://i.imgur.com/nMN7y19.jpg" alt="Author Image" class="img--circle img--headshot element--center">
+        </div>
+        
+      
+      
+      <p class="site__description">
+         Personal thoughts on Cloud Native, Informaton Security, Open Source Software, and other randomness 
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Scratchpad</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		 
+			 
+				<li>
+					<a href="/"><span class='fa-icon'><i class='fas fa-home'></i></span><code>cd <em>~</em></code>
+						<span></span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="/posts/"><span class='fa-icon'><i class='fas fa-stream'></i></span><code>ls <em>posts/*</em></code>
+						<span></span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="/series/"><span class='fa-icon'><i class='fas fa-list-alt'></i></span><code>grep -o <em>series</em> posts/* | sort -u</code>
+						<span></span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="/tags/"><span class='fa-icon'><i class='fas fa-tags'></i></span><code>grep -o <em>tags</em> posts/* | sort -u</code>
+						<span></span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="/lists/"><span class='fa-icon'><i class='fas fa-thumbtack'></i></span><code>cd <em>lists</em></code>
+						<span></span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="/whoami/"><span class='fa-icon'><i class='fas fa-id-card'></i></span><code>whoami</code>
+						<span></span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.kickresume.com/cv/jkAAv/"><span class='fa-icon'><i class='fas fa-file'></i></span><code>cat <em>~/Documents/resume.txt</em></code>
+						<span></span>
+					</a>
+				</li>
+			 
+		
+	</ul>
+</div>
+
+        <section class="social">
+	
+	<a href="https://twitter.com/hueythewookiee" rel="me"><i class="fa-w-16" aria-hidden="true"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="bird" class="svg-inline--fa fa-bird fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></i></a>
+	
+	
+	
+	<a href="https://github.com/hcampbel" rel="me"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	<a href="https://instagram.com/callsignchewy" rel="me"><i class="fab fa-instagram fa-lg" aria-hidden="true"></i></a>
+	
+	
+	<a href="https://linkedin.com/in/stephencampbell" rel="me"><i class="fa-w-16" aria-hidden="true"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="pro-network" class="svg-inline--fa fa-pro-network fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg></i></a>
+	
+	
+	
+	
+	<a href="https://www.twitch.tv/sporadicdisruption" rel="me"><i class="fab fa-twitch fa-lg" aria-hidden="true"></i></a>
+	
+	
+	<a href="https://steamcommunity.com/profiles/76561198032401244" rel="me"><i class="fab fa-steam fa-lg" aria-hidden="true"></i></a>
+	
+	
+	<a href="https://keybase.io/sporadic" rel="me"><i class="fab fa-keybase fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	<a href="mailto:campbhu@gmail.com" rel="me"><i class="fas fa-at fa-lg" aria-hidden="true"></i></a>
+	
+</section>
+
+      </div>
+    </div>
+
+  </div>
+  <div class="container fixed-container">
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    <header>
+
+ 
+ 
+
+
+</header>
+
+            
+    
+
+<article>
+  <header>
+    <h1>The Scratchpad Cybersecurity Year In Review for 2021</h1>
+    
+    
+<div class="post__meta">
+    
+    
+      <i class="fas fa-calendar-alt"></i> Dec 31, 2021
+    
+    
+    
+    
+    
+      
+      
+          <br/>
+           <i class="fas fa-tags"></i>
+          
+          <a class="badge badge-tag" href="/tags/cybersecurity">cybersecurity</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/infosec">infosec</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/information-security">information security</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/security">security</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/yearreview">yearreview</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/2021">2021</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/ransomware">ransomware</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/cyber">cyber</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/cyber-warfare">cyber warfare</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/2022">2022</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/malware">malware</a>
+          
+      
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 15 min read
+
+    
+    
+    
+
+</div>
+
+
+  </header>
+  
+  
+  
+  <div class="post adoc">
+    <div id="toc" class="toc">
+<div id="toctitle">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#_introduction">1. <strong>Introduction</strong></a></li>
+<li><a href="#_the_log4j_exploit">2. <strong>The log4j exploit</strong></a></li>
+<li><a href="#_colonial_pipeline_attack">3. <strong>Colonial Pipeline Attack</strong></a></li>
+<li><a href="#_pelotons_api_exploit">4. <strong>Peloton’s API Exploit</strong></a></li>
+<li><a href="#_nso_pegasus">5. <strong>NSO Pegasus</strong></a></li>
+<li><a href="#_twitch_involuntarily_goes_open_source">6. <strong>Twitch involuntarily goes open source</strong></a></li>
+<li><a href="#_further_cybersecurity_2021_review_readings">7. <strong>Further Cybersecurity 2021 Review Readings</strong></a></li>
+<li><a href="#_cyberseurity_trends_for_2022">8. <strong>Cyberseurity Trends for 2022</strong></a></li>
+<li><a href="#_closing_thoughts">9. <strong>Closing Thoughts</strong></a></li>
+</ul>
+</div>
+<div class="sect1">
+<h2 id="_introduction">1. <strong>Introduction</strong></h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>If people thought 2020 was a batshit crazy year, 2021 basically told everyone to hold their beer, especially when it came down to cybersecurity and information security. Axios makes no bones in stating <a href="https://www.axios.com/2021-cybersecurity-ransomware-cyber-attack-91ccc592-b611-4825-8e0a-65e37d06a450.html">2021 was the year cybersecurity became everyone’s problem</a>. <a href="https://www.wsj.com/articles/new-log4j-flaw-caps-year-of-relentless-cybersecurity-crises-11640178004">Even The Wall Street Journal</a> is taking notice.</p>
+</div>
+<div class="paragraph">
+<p>With that, here’s a look back at the year that was as well as where we’re going.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_the_log4j_exploit">2. <strong>The log4j exploit</strong></h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>What more can be said about the <a href="https://logging.apache.org/log4j/2.x/security.html">log4j</a> situation that hasn’t already been said?</p>
+</div>
+<div class="paragraph">
+<p>It’s been called <a href="https://news.trendmicro.com/2021/12/14/log4shell-the-worst-bug-in-a-decade-affecting-everyone-including-google-apple-amazon-and-netflix/">the worst cyberthreat in a decade</a> <a href="https://time.com/6128795/log4j-security-flaw/">by</a> <a href="https://www.lacework.com/blog/log4j-and-whatever-comes-next/">practically</a> <a href="https://www.infosecurity-magazine.com/news/worstcase-scenario-exploit-travels/">everyone</a> <a href="https://www.protocol.com/newsletters/protocol-enterprise/open-source-security-log4j?rebelltitem=1#rebelltitem1">there</a> <a href="https://www.cisa.gov/news/2021/12/11/statement-cisa-director-easterly-log4j-vulnerability">is</a>. Even with <a href="https://csrc.nist.gov/glossary/term/blue_team">Blue Teams</a> working around the clock to fix this, the exploit is still there. <a href="https://venturebeat.com/2021/12/16/with-log4j-vulnerability-the-full-impact-has-yet-to-come/">the full effect</a> may yet to be realized.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://i.imgur.com/UE9P0kw.png" alt="Yep" width="it&#39;s like that"/>
+</div>
+</div>
+<div class="paragraph">
+<p><a href="https://www.crowdstrike.com/blog/overwatch-exposes-aquatic-panda-in-possession-of-log-4-shell-exploit-tools/">Oh, APTs are already hard at work</a> to make sure the fun hangs around for a while…​ 😬</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://c.tenor.com/jd0FBnRYlfgAAAAd/sigh-sigh-off.gif" alt="300" width="600"/>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_colonial_pipeline_attack">3. <strong>Colonial Pipeline Attack</strong></h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>On 7 May 2021, <a href="https://www.colpipe.com/">Colonial Pipeline Company</a> <a href="https://www.trendmicro.com/en_us/research/21/e/what-we-know-about-darkside-ransomware-and-the-us-pipeline-attac.html">fell victim to a ransomware attack</a> from threat actor <a href="https://en.wikipedia.org/wiki/DarkSide_(hacker_group)">DarkSide</a>. DarkSide was able to infiltrate Colonial’s network environment through <a href="https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password">a compromised VPN account</a> and deploy their ransomware once connected to the network.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://i.imgur.com/vqYHoV2.jpg" alt="200" width="400"/>
+</div>
+</div>
+<div class="paragraph">
+<p>The attack caused the US Government to <a href="https://news.yahoo.com/biden-admin-declares-state-emergency-011332752.html">issue a regional emergency</a> for 17 states and the Washington D.C. region. The attack ended up becoming <a href="https://www.politico.com/news/2021/05/08/colonial-pipeline-cyber-attack-485984">the largest cyberattack on US oil infrastructure</a>.</p>
+</div>
+<div class="paragraph">
+<p>Colonial ended up paying a <a href="https://www.bloomberg.com/news/articles/2021-05-13/colonial-pipeline-paid-hackers-nearly-5-million-in-ransom">75 Bitcoin (approx. $4.4 million USD) ransom</a>.</p>
+</div>
+<div class="videoblock">
+<div class="title"><strong>What is the Colonial Pipeline Hack? A Timeline of Events</strong></div>
+<div class="content">
+<iframe src="https://www.youtube.com/embed/wYKXn8Gfpi8?rel=0" frameborder="0" allowfullscreen=""></iframe>
+</div>
+</div>
+<div class="paragraph">
+<p>DOJ announced in June that it had <a href="https://abcnews.go.com/Politics/doj-seizes-millions-ransom-paid-colonial-pipeline/story?id=78135821">recovered 63.7 of the bitcoins (approx. $2.3 million US dollars) ransom payment</a> and the US State Department has <a href="https://www.state.gov/reward-offers-for-information-to-bring-darkside-ransomware-variant-co-conspirators-to-justice/">issued a $10 million dollar reward</a> for information leading to the identification or location of any individual(s) who hold(s) a key leadership position in the DarkSide ransomware variant transnational organized crime group.</p>
+</div>
+<div class="paragraph">
+<p>DarkSide’s success has inspired others to explore new ways to raise revenue I’m told…​</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://i.imgur.com/nG1mQOg.jpg" alt="Everyone’s getting on the ransomware bandwagon" width="600" height="600"/>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_pelotons_api_exploit">4. <strong>Peloton’s API Exploit</strong></h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>2021 has been a <a href="https://www.wsj.com/articles/inside-a-year-at-peloton-from-pandemic-winner-to-hbo-punchline-11640952004">rough year</a> for <a href="https://www.onepeloton.com/">Peloton</a> and not just having to <a href="https://www.cpsc.gov/Recalls/2021/Peloton-Recalls-Tread-Plus-Treadmills-After-One-Child-Died-and-More-than-70-Incidents-Reported">issue a recall of their Tread+</a> product<sup class="footnote">[<a id="_footnoteref_1" class="footnote" href="#_footnotedef_1" title="View footnote.">1</a>]</sup>. In January, secrurity researcher Jan Masters <a href="https://www.pentestpartners.com/security-blog/tour-de-peloton-exposed-user-data/?=050420210000">documented</a> how he could make unauthenticated requests to Peloton’s API for user data to include:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>User IDs</p>
+</li>
+<li>
+<p>Instructor IDs</p>
+</li>
+<li>
+<p>Group Membership</p>
+</li>
+<li>
+<p>Location</p>
+</li>
+<li>
+<p>Workout stats</p>
+</li>
+<li>
+<p>Gender and age</p>
+</li>
+<li>
+<p>If they are in the studio or not</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Then in June, <a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/a-new-program-for-your-peloton-whether-you-like-it-or-not/">McAfee Labs</a> demonstrated how attackers can also add carefully crafted malware apps disguised as Netflix and Spotify to encourage users to input login credentials that would enable remote exploitation.</p>
+</div>
+<div class="videoblock">
+<div class="title"><strong>McAfee ATR Demonstrates Peloton Bike+ Bootloader Vulnerability</strong></div>
+<div class="content">
+<iframe src="https://www.youtube.com/embed/RLjXfvb0ADw?rel=0" frameborder="0" allowfullscreen=""></iframe>
+</div>
+</div>
+<div class="paragraph">
+<p>Oof 😬</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_nso_pegasus">5. <strong>NSO Pegasus</strong></h2>
+<div class="sectionbody">
+<div class="videoblock">
+<div class="title"><strong>Invisible surveillance: How spyware is secretly hacking smartphones</strong></div>
+<div class="content">
+<iframe src="https://www.youtube.com/embed/R0RVI7bghj8?rel=0" frameborder="0" allowfullscreen=""></iframe>
+</div>
+</div>
+<div class="paragraph">
+<p><a href="https://www.nsogroup.com/">NSO Group</a>, creators fo the infamous spyware application <a href="https://en.wikipedia.org/wiki/Pegasus_(spyware)">Pegasus</a> and <a href="https://en.wikipedia.org/wiki/FORCEDENTRY">FORCEDENTRY</a>, has demonstrated that they, <a href="https://www.wired.com/story/nso-group-forcedentry-pegasus-spyware-analysis/">in the words of Google</a>:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+We assess this to be one of the most technically sophisticated exploits we’ve ever seen, further demonstrating that the capabilities NSO provides rival those previously thought to be accessible to only a handful of nation states.
+</blockquote>
+<div class="attribution">
+— Ian Beer &amp; Samuel Groß<br/>
+<cite><a href="https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html">A deep dive into an NSO zero-click iMessage exploit: Remote Code Execution</a></cite>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_twitch_involuntarily_goes_open_source">6. <strong>Twitch involuntarily goes open source</strong></h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>6 October 2021 will not be looked back fondly by those at <a href="https://www.twitch.tv/">Twitch</a> as it’s entire platform - 128 GB worth of <a href="https://git-scm.com/">Git</a> repo sources including code for it’s clients, APIs, plans for a <a href="https://store.steampowered.com/">Steam</a> competitor, and details of the payouts made to almost 2.4 million streamers since August 2019. - <a href="https://www.videogameschronicle.com/news/the-entirety-of-twitch-has-reportedly-been-leaked/">was dumped</a> on the Internet.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://i.imgur.com/5WIPfQ4.png" alt="300" width="600"/>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_further_cybersecurity_2021_review_readings">7. <strong>Further Cybersecurity 2021 Review Readings</strong></h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.cnet.com/tech/services-and-software/hacks-ransomware-and-data-privacy-dominated-cybersecurity-in-2021/">CNET - Hacks, ransomware and data privacy dominated cybersecurity in 2021</a></p>
+</li>
+<li>
+<p><a href="https://www.govtech.com/blogs/lohrmann-on-cybersecurity/2021-cyber-review-the-year-ransomware-disrupted-infrastructure">Government Technology - 2021 Cyber Review: The Year Ransomware Disrupted Infrastructure</a></p>
+</li>
+<li>
+<p><a href="https://www.securitymagazine.com/articles/96655-a-cybersecurity-year-in-review">Security Magazine - A cybersecurity year in review</a></p>
+</li>
+<li>
+<p><a href="https://threatpost.com/5-top-threatpost-stories-2021/177278/">ThreatPost - The 5 Most-Wanted Threatpost Stories of 2021</a></p>
+</li>
+<li>
+<p><a href="https://threatpost.com/2021-log4j-year-review-funny-cybersecurity/177215/">ThreatPost - 2021 Wants Another Chance (A Lighter-Side Year in Review)</a></p>
+</li>
+<li>
+<p><a href="https://www.darkreading.com/attacks-breaches/6-of-the-most-impactful-cybersecurity-incidents-of-2021">DarkReading - 7 of the Most Impactful Cybersecurity Incidents of 2021</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_cyberseurity_trends_for_2022">8. <strong>Cyberseurity Trends for 2022</strong></h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>So where do we go from here?</p>
+</div>
+<div class="paragraph">
+<p>Well, based on what I’ve read, here is sort how I see things going at the start of the year.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Back to the basics (again) - <a href="https://www.techrepublic.com/article/cisos-its-time-to-get-back-to-security-basics/">we talked about it in 2021</a> but 2022 will be a year where focusing on the basics will pay dividends. This includes revisiting <a href="https://www.paloaltonetworks.com/blog/2019/07/4-practical-steps-shift-left-security/">principles of making the &#34;Shift Left&#34; in DevSecOps</a> along with <a href="https://www.twilio.com/blog/security-metrics-count">making security metrics relevant and mean something</a>.</p>
+</li>
+<li>
+<p>Mitigating Software Supply Chain Risks -  there are some promising tools on the horizon, such as <a href="https://chainguard.dev/">Chainguard</a>. I still think, though, we’re going to have a lot of work to do, <a href="https://www.rapid7.com/blog/post/2021/09/08/security-at-scale-in-the-open-source-supply-chain/">especially on the open source side of the house</a>. Hopefully things like <a href="https://binary.transparency.dev/">Binary Transparency</a> will help us out.</p>
+</li>
+<li>
+<p><a href="https://www.darkreading.com/operations/four-out-of-five-organizations-are-increasing-cybersecurity-budgets-for-2022">Organizaitons are ramping budgets up and the talent market looks to reap from this</a> - Certainly tooling will help some organizations and businesses but ultimately it comes down to getting the right people in place to execute. Unfortunately, <a href="https://www.darkreading.com/careers-and-people/how-we-can-narrow-the-talent-shortage-in-cybersecurity">the professional talent pool</a> is small compared to need and <a href="https://www.cybersecuritydive.com/news/security-workforce-burn-out-great-resignation/611071/">the burnout for cybersecurity professionals</a> is extremely high.</p>
+</li>
+<li>
+<p>Heavy investment into Cloud Security Posture Management tooling. <a href="https://www.securitymagazine.com/articles/95561-casb-cwpp-cspm-and-cnapp-which-one-is-right-for-securing-your-cloud-environment">It’s only going to keep growing</a>.</p>
+</li>
+<li>
+<p><a href="https://www.cpomagazine.com/cyber-security/dhs-secretary-killware-malware-designed-to-do-real-world-harm-poised-to-be-worlds-next-breakout-cybersecurity-threat/">&#34;Killware&#34;</a>, the next evolution of ransomware, done to inflict maximum destruction and loss, both in terms of monetary and human lives. It’s already on <a href="https://siliconangle.com/2021/10/13/dhs-secretary-warns-killware-next-big-cyber-threat/">DHS’s radar going forward</a>.</p>
+</li>
+<li>
+<p><a href="https://www.fincen.gov/sites/default/files/2021-10/Financial%20Trend%20Analysis_Ransomware%20508%20FINAL.pdf">Ransomware is only going to get worse</a>, per research from Treasury’s FinCen group.</p>
+</li>
+<li>
+<p><a href="https://www.fireeye.com/blog/executive-perspective/2021/10/mcafee-enterprise-fireeye-2022-threat-predictions.html#prediction-2">Nation states will increase their offensive operations by leveraging cybercriminals</a> per research from FireEye. This is a continuation of trends we’ve seen as this allows nation states to claim <a href="https://en.wikipedia.org/wiki/Plausible_deniability">plausibe deniability</a>.</p>
+</li>
+<li>
+<p><a href="https://www.fireeye.com/blog/executive-perspective/2021/10/mcafee-enterprise-fireeye-2022-threat-predictions.html#prediction-7">Those that fail to patch in a timely manner will pay the price</a>.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>My &#34;Recommended Cybersecurity Reading&#34; list to prepare you for 2022:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.gartner.com/en/articles/the-top-8-cybersecurity-predictions-for-2021-2022">Gartner - The Top 8 Cybersecurity Predictions for 2021-2022</a></p>
+</li>
+<li>
+<p><a href="https://documents.trendmicro.com/assets/rpt/rpt-toward-a-new-momentum-trend-micro-security-predictions-for-2022.pdf">Trend Micro’s Security Predictions for 2022</a></p>
+</li>
+<li>
+<p><a href="https://www.mandiant.com/sites/default/files/2021-11/rpt-m-Prediction22-000410-02.pdf">Mandiant’s 14 Cyber Security Predictions For 2022 And Beyond</a></p>
+</li>
+<li>
+<p><a href="https://cybersecurity.att.com/blogs/security-essentials/cybersecurity-in-2022-predictions-for-digital-ecosystem-facing-more-challenges-and-sophisticated-threats">AT&amp;T Cybersecurity - Cybersecurity in 2022, Predictions for digital ecosystem facing more challenges and sophisticated threats</a></p>
+</li>
+<li>
+<p><a href="https://www.watchguard.com/wgrd-resource-center/cyber-security-predictions">WatchGuard’s 2022 Predictions</a></p>
+</li>
+<li>
+<p><a href="https://www.fireeye.com/blog/executive-perspective/2021/10/mcafee-enterprise-fireeye-2022-threat-predictions.html">McAfee Enterprise and FireEye 2022 Threat Predictions</a></p>
+</li>
+<li>
+<p><a href="https://www.tripwire.com/state-of-security/featured/cybersecurity-in-2022-and-beyond/">TripWire - Cybersecurity in 2022 and Beyond</a></p>
+</li>
+<li>
+<p><a href="https://www.govtech.com/blogs/lohrmann-on-cybersecurity/the-top-22-security-predictions-for-2022">Government Technology - The Top 22 Security Predictions for 2022</a></p>
+</li>
+<li>
+<p><a href="https://blogs.vmware.com/security/2021/12/securing-the-future-8-cybersecurity-predictions-for-2022.html">VMWare Security Blog - Securing the Future: 7 Cybersecurity Predictions for 2022</a></p>
+</li>
+<li>
+<p><a href="https://enterprisersproject.com/article/2021/12/security-4-issues-watch-2022">The Enterprise Project - IT security: 4 issues to watch in 2022</a></p>
+</li>
+<li>
+<p><a href="https://www.fortinet.com/content/dam/maindam/PUBLIC/02_MARKETING/02_Collateral/WhitePaper/wp-threat-prediction-2022.pdf">Fortinet’s Cyber Threat Prediction for 2022</a></p>
+</li>
+<li>
+<p><a href="https://securityintelligence.com/articles/cyber-warfare-what-to-expect-2022/">Security Intelligence - Cyber Warfare: What to Expect in 2022</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_closing_thoughts">9. <strong>Closing Thoughts</strong></h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Cybersecurity and Information Security will continue to face an ever rapidly changing space in 2022 with no slow down in sight. Threat actors will keep refining their <a href="https://medium.com/mitre-attack/att-ck-101-17074d3bc62">tactics, techniques, and procedures (TTPs)</a> to exploit weaknesses in target systems and networks while <a href="https://www.comptia.org/content/articles/what-is-a-security-operations-center">Security Operations Centers (SOCs)</a> and Blue Teams fight a constant struggle to just to keep pace.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://c.tenor.com/H9fF7_SIlj4AAAAC/that70s-show-drinking.gif" alt="Totally don’t need my liver"/>
+</div>
+</div>
+<div class="paragraph">
+<p>Yep, I totally don’t need my liver…​ 😬 🤦</p>
+</div>
+<div class="paragraph">
+<p>In all seriousness, may your 2022 be a great year for you and your loved ones. Remember to take care of yourself as the year goes on, especially on the mental health side. <a href="https://www.talkspace.com/">Talkspace</a> and <a href="https://www.betterhelp.com/">Better Help</a> are excellent choices if you feel like you need to reach out to someone to listen to you. Remember, there’s no shame in needing help at all.</p>
+</div>
+<div class="paragraph">
+<p>And with that, Happy 2022 to everyone!</p>
+</div>
+</div>
+</div>
+<div id="footnotes">
+<hr/>
+<div class="footnote" id="_footnotedef_1">
+<a href="#_footnoteref_1">1</a>. <a href="https://www.npr.org/2021/05/05/993873307/in-abrupt-reversal-peloton-agrees-to-safety-recall-of-treadmills" class="bare">https://www.npr.org/2021/05/05/993873307/in-abrupt-reversal-peloton-agrees-to-safety-recall-of-treadmills</a>
+</div>
+</div>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/2021/12/31/site-revamp-2022-and-more/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle">Site Revamp, 2022, and More!</span>
+    </a>
+    
+    
+</div>
+
+
+  
+
+  
+
+</article>
+
+
+            
+    
+<footer>
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  messageStyle: "none",
+  tex2jax: { inlineMath: [["\\(", "\\)"]], displayMath: [["\\[", "\\]"]], ignoreClass: "nostem|nolatexmath" },
+  asciimath2jax: { delimiters: [["\\$", "\\$"]], ignoreClass: "nostem|noasciimath" },
+  TeX: { equationNumbers: { autoNumber: "none" } }
+})
+MathJax.Hub.Register.StartupHook("AsciiMath Jax Ready", function () {
+  MathJax.InputJax.AsciiMath.postfilterHooks.Add(function (data, node) {
+    if ((node = data.script.parentNode) && (node = node.parentNode) && node.classList.contains("stemblock")) {
+      data.math.root.display = "block"
+    }
+    return data
+  })
+})
+</script>
+
+<script id="MathJax-script" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js" integrity="sha512-ehyCwiYKL3B7bx/X+X0rs1JKF9ANzwjOeOvB69YoPOZnpBhC9GRSu2ry9vAuv4Z460WI7Yt4iq0dEPPeCElnXA==" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.3.1/highlight.min.js" integrity="sha512-Pbb8o120v5/hN/a6LjF4N4Lxou+xYZ0QcVF8J6TWhBbHmctQWd8O6xTDmHpE/91OjPzCk4JRoiJsexHYg4SotQ==" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+        
+        hljs.initHighlightingOnLoad();
+    </script>
+    
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/zepto/1.2.0/zepto.min.js" integrity="sha256-vrn14y7WH7zgEElyQqm2uCGSQrX/xjYDjniRUQx3NyU=" crossorigin="anonymous"></script>
+<script type="text/javascript">
+function addBlockSwitches() {
+	$('.primary').each(function() {
+		primary = $(this);
+		createSwitchItem(primary, createBlockSwitch(primary)).item.addClass("selected");
+		primary.children('.title').remove();
+	});
+	$('.secondary').each(function(idx, node) {
+		secondary = $(node);
+		primary = findPrimary(secondary);
+		switchItem = createSwitchItem(secondary, primary.children('.switch'));
+		switchItem.content.addClass('hidden');
+		findPrimary(secondary).append(switchItem.content);
+		secondary.remove();
+	});
+}
+
+function createBlockSwitch(primary) {
+	blockSwitch = $('<div class="switch"></div>');
+	primary.prepend(blockSwitch);
+	return blockSwitch;
+}
+
+function findPrimary(secondary) {
+	candidate = secondary.prev();
+	while (!candidate.is('.primary')) {
+		candidate = candidate.prev();
+	}
+	return candidate;
+}
+
+function createSwitchItem(block, blockSwitch) {
+	blockName = block.children('.title').text();
+	content = block.children('.content').first().append(block.next('.colist'));
+	item = $('<div class="switch--item">' + blockName + '</div>');
+	blockSwitch.append(item);
+	return {'item': item, 'content': content};
+}
+
+function globalSwitch() {
+	$('.switch--item').each(function() {
+		var blockId = blockIdForSwitchItem($(this));
+		$(this).off('click');
+		$(this).on('click', function() {
+			selectedText = $(this).text()
+			window.localStorage.setItem(blockId, selectedText);
+			$(".switch--item").filter(function() {
+				return blockIdForSwitchItem($(this)) === blockId;
+			}).filter(function() {
+				return $(this).text() === selectedText;
+			}).each(function() {
+				select($(this))
+			});
+		});
+		if ($(this).text() === window.localStorage.getItem(blockId)) {
+			select($(this))
+		}
+	});
+}
+
+function blockIdForSwitchItem(item) {
+	idComponents = []
+	idComponents.push(item.text().toLowerCase());
+	item.siblings(".switch--item").each(function(index, sibling) {
+		idComponents.push($(sibling).text().toLowerCase());
+	});
+	return idComponents.sort().join("-")
+}
+
+function select(selected) {
+	selected.addClass('selected');
+	selected.siblings().removeClass('selected');
+	selectedContent = selected.parent().siblings(".content").eq(selected.index())
+	selectedContent.removeClass('hidden');
+	selectedContent.siblings().addClass('hidden');
+}
+
+$(addBlockSwitches);
+$(globalSwitch);
+</script>
+
+
+
+</footer>
+
+    
+
+
+
+        </div>
+    </body>
+</html>
+

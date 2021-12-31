@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Scratchpad</title>
-        <link>https://hcampbel.github.io/posts/</link>
-        <description>Recent content in Posts on Scratchpad</description>
+        <title>2022 on Scratchpad</title>
+        <link>https://hcampbel.github.io/tags/2022/</link>
+        <description>Recent content in 2022 on Scratchpad</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <managingEditor>campbhu@gmail.com (Hugh Campbell)</managingEditor>
         <webMaster>campbhu@gmail.com (Hugh Campbell)</webMaster>
         <lastBuildDate>Fri, 31 Dec 2021 11:30:36 -0500</lastBuildDate>
         
-        <atom:link href="https://hcampbel.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://hcampbel.github.io/tags/2022/index.xml" rel="self" type="application/rss+xml" />
         
         
         
@@ -21,18 +21,6 @@
             <author>campbhu@gmail.com (Hugh Campbell)</author>
             <guid>https://hcampbel.github.io/2021/12/31/cybersecurity-year-in-review-2021/</guid>
             <description>Table of Contents 1. Introduction 2. The log4j exploit 3. Colonial Pipeline Attack 4. Peloton’s API Exploit 5. NSO Pegasus 6. Twitch involuntarily goes open source 7. Further Cybersecurity 2021 Review Readings 8.</description>
-        </item>
-        
-        
-        
-        <item>
-            <title>Site Revamp, 2022, and More!</title>
-            <link>https://hcampbel.github.io/2021/12/31/site-revamp-2022-and-more/</link>
-            <pubDate>Fri, 31 Dec 2021 03:54:05 -0500</pubDate>
-            <author>campbhu@gmail.com (Hugh Campbell)</author>
-            <guid>https://hcampbel.github.io/2021/12/31/site-revamp-2022-and-more/</guid>
-            <description>Table of Contents 1. Introduction 2. Blog Work   1. Introduction Hi there, friends! 👋 👋 👋
-   It has been one hell of a year, hasn’t it.</description>
         </item>
         
         
