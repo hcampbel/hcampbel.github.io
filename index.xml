@@ -26,8 +26,6 @@
         
         
         
-        
-        
         <item>
             <title></title>
             <link>https://hcampbel.github.io/about/myself/</link>
@@ -37,8 +35,6 @@
             <description>Hi there, friends! 👋
 What this blog is about This little blog of mine serves as my personal collection of thoughts traversing the world of systems and software engineering with particular focus towards cloud native, cloud computing, DevOps, infrastructure, information security, cybersecurity, and open source software. Things most likely to be discussed are Kubernetes and the CNCF ecosystem, public cloud platforms - primarily Amazon Web Services, Ansible, Terraform, Golang, Python, Rust, Haskell, Linux (Fedora and Red Hat Enterprise Linux mostly), QEMU/KVM, Filesystems and storage - mostly BTRFS, ZFS, Ceph , etc.</description>
         </item>
-        
-        
         
         
     </channel>
