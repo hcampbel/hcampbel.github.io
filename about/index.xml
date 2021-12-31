@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Abouts on Scratchpad</title>
+        <link>https://hcampbel.github.io/about/</link>
+        <description>Recent content in Abouts on Scratchpad</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <managingEditor>campbhu@gmail.com (Hugh Campbell)</managingEditor>
+        <webMaster>campbhu@gmail.com (Hugh Campbell)</webMaster>
+        
+        <atom:link href="https://hcampbel.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+        
+        
+        
+        <item>
+            <title></title>
+            <link>https://hcampbel.github.io/about/myself/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <author>campbhu@gmail.com (Hugh Campbell)</author>
+            <guid>https://hcampbel.github.io/about/myself/</guid>
+            <description>Hi there, friends! 👋
+What this blog is about This little blog of mine serves as my personal collection of thoughts traversing the world of systems and software engineering with particular focus towards cloud native, cloud computing, DevOps, infrastructure, information security, cybersecurity, and open source software. Things most likely to be discussed are Kubernetes and the CNCF ecosystem, public cloud platforms - primarily Amazon Web Services, Ansible, Terraform, Golang, Python, Rust, Haskell, Linux (Fedora and Red Hat Enterprise Linux mostly), QEMU/KVM, Filesystems and storage - mostly BTRFS, ZFS, Ceph , etc.</description>
+        </item>
+        
+        
+    </channel>
+</rss>

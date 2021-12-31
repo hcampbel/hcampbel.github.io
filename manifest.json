@@ -1,0 +1,10 @@
+{
+  "name": "Scratchpad",
+  "short_name": "Scratchpad",
+  "description": "Personal thoughts on Cloud Native, Informaton Security, Open Source Software, and other randomness",
+  "icons": [
+  ],
+  "theme_color": "#b64f4f",
+  "background_color": "#b64f4f",
+  "display": "standalone"
+}
