@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/sporadic
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hcampbel.github.io
+  * I am sporadic (https://keybase.io/sporadic) on keybase.
+  * I have a public key with fingerprint 55D6 3FF3 9997 B293 8FFB  5D17 6893 E216 864A 0AEB
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e8babe225a3f4877ed415ad9aac3cb2101e9bf49b8461bca850e39522d940fc00a",
+      "fingerprint": "55d63ff39997b2938ffb5d176893e216864a0aeb",
+      "host": "keybase.io",
+      "key_id": "6893e216864a0aeb",
+      "kid": "0101e8babe225a3f4877ed415ad9aac3cb2101e9bf49b8461bca850e39522d940fc00a",
+      "uid": "94aafb620f31f6f352dd1171947ea519",
+      "username": "sporadic"
+    },
+    "service": {
+      "hostname": "hcampbel.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1640941602,
+  "expire_in": 157680000,
+  "prev": "c045a01853d418a708f34328392d0bad348997793e6105792824263cec3be27b",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIrAnicrVJbSFRBGF63rDQkKxCCIDxQSV6aOXOuSw9dwLISCyFLjG3mnDnr0XXP
+unvWMrMgSAUpBNMuqGGXhy4SioriBS9BkWH1oFFiWEhERARlqEk0x+ytx+ZlmH++
+75vv/+Z/FLfMFRv162zD9FQP+BQ1MtgUceHRJ1wZRyy9lPOUcYV0caN+nYZtb6Gp
+cx4OQACpQjChPC9iZAiKLFNdgCLWVYw1pBHeQajEEFSiCBIkGlZEQJEq8ryuCsDQ
+AMBcCmeYAR8NBUNmwGayoqhLyDCQqqoy4VWkGAYRdShLioooDyVFEjDAlDBivhV2
+GMwcwWGaZlqsxg7eRXv/wP9n35FFOVXA2CASDwwEDclAIq/rEMpQFWSKRag6wDAN
+BXARZehw0Aph3dS48hSOVUtMjTrBOp0sIfI1XBQk1J/mM+38CPnTVTBk2ZZm+Z17
+2w6GPQ7fLg06hJOUeJekvMQM6CxNxiihobBpBTgPZEjNNh1tKAlAFaAE+BSOngqa
+Ieo1HYTIwgVsOe/QEiapAUHEACoiYrkoWAaKgQTEK0jldUCwjgSF/Y7MApYgEGWV
+V3iBl5BGNcRSlZ2sw7Q4YDFthfnEPqdz0xfAdiREufKhgbzlrqhY14potzNmrtiY
++L/D12eunHc3D7ZMjF/b09ZMhsXSxNnKY/2Xaf92z/UzmXs9Ld53+WvHuu3CB5N5
+sxkzef7ei9njm/vi1++6MNqxM2OifuKhK+fzh4q7NfML7uGhpIMbCn6Ml9Ybla7a
+e8k1b5L12zFu3FlecPp17qrVW6fdcvpXe6qkazI2b6ba027MZQ99z+zovLWpNTEj
+s4VP2L0v91tjalLO4XPKnBg5EV09drOpdoe18WdW6ouaV11Pp5teXjk021yMhLmP
+VZV1CVez7tRFHUH7zS9c39sDI1yCWOSreD58fvBx5/FnPWvur2uNzHgK3ifcSK6Z
+2IaaZwcuxR3t7m1raez0T8KGhS3pfVXtvwFZFEqG
+=7zoa
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sporadic
+
+==================================================================
+
