@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Drafts on Scratchpad</title>
-        <link>http://localhost:1313/drafts/</link>
+        <link>https://hcampbel.github.io/drafts/</link>
         <description>Recent content in Drafts on Scratchpad</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
@@ -10,7 +10,7 @@
         <webMaster>campbhu@gmail.com (Hugh Campbell)</webMaster>
         <lastBuildDate>Fri, 31 Dec 2021 03:54:05 -0500</lastBuildDate>
         
-        <atom:link href="http://localhost:1313/drafts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://hcampbel.github.io/drafts/index.xml" rel="self" type="application/rss+xml" />
         
         
         

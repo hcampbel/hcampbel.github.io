@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Scratchpad</title>
-        <link>http://localhost:1313/tags/</link>
+        <link>https://hcampbel.github.io/tags/</link>
         <description>Recent content in Tags on Scratchpad</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
@@ -10,16 +10,16 @@
         <webMaster>campbhu@gmail.com (Hugh Campbell)</webMaster>
         <lastBuildDate>Fri, 31 Dec 2021 11:30:36 -0500</lastBuildDate>
         
-        <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://hcampbel.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
         
         
         
         <item>
             <title>2021</title>
-            <link>http://localhost:1313/tags/2021/</link>
+            <link>https://hcampbel.github.io/tags/2021/</link>
             <pubDate>Fri, 31 Dec 2021 11:30:36 -0500</pubDate>
             <author>campbhu@gmail.com (Hugh Campbell)</author>
-            <guid>http://localhost:1313/tags/2021/</guid>
+            <guid>https://hcampbel.github.io/tags/2021/</guid>
             <description></description>
         </item>
         
@@ -27,10 +27,10 @@
         
         <item>
             <title>2022</title>
-            <link>http://localhost:1313/tags/2022/</link>
+            <link>https://hcampbel.github.io/tags/2022/</link>
             <pubDate>Fri, 31 Dec 2021 11:30:36 -0500</pubDate>
             <author>campbhu@gmail.com (Hugh Campbell)</author>
-            <guid>http://localhost:1313/tags/2022/</guid>
+            <guid>https://hcampbel.github.io/tags/2022/</guid>
             <description></description>
         </item>
         
@@ -38,10 +38,10 @@
         
         <item>
             <title>cyber</title>
-            <link>http://localhost:1313/tags/cyber/</link>
+            <link>https://hcampbel.github.io/tags/cyber/</link>
             <pubDate>Fri, 31 Dec 2021 11:30:36 -0500</pubDate>
             <author>campbhu@gmail.com (Hugh Campbell)</author>
-            <guid>http://localhost:1313/tags/cyber/</guid>
+            <guid>https://hcampbel.github.io/tags/cyber/</guid>
             <description></description>
         </item>
         
@@ -49,10 +49,10 @@
         
         <item>
             <title>cyber warfare</title>
-            <link>http://localhost:1313/tags/cyber-warfare/</link>
+            <link>https://hcampbel.github.io/tags/cyber-warfare/</link>
             <pubDate>Fri, 31 Dec 2021 11:30:36 -0500</pubDate>
             <author>campbhu@gmail.com (Hugh Campbell)</author>
-            <guid>http://localhost:1313/tags/cyber-warfare/</guid>
+            <guid>https://hcampbel.github.io/tags/cyber-warfare/</guid>
             <description></description>
         </item>
         
@@ -60,10 +60,10 @@
         
         <item>
             <title>cybersecurity</title>
-            <link>http://localhost:1313/tags/cybersecurity/</link>
+            <link>https://hcampbel.github.io/tags/cybersecurity/</link>
             <pubDate>Fri, 31 Dec 2021 11:30:36 -0500</pubDate>
             <author>campbhu@gmail.com (Hugh Campbell)</author>
-            <guid>http://localhost:1313/tags/cybersecurity/</guid>
+            <guid>https://hcampbel.github.io/tags/cybersecurity/</guid>
             <description></description>
         </item>
         
@@ -71,10 +71,10 @@
         
         <item>
             <title>information security</title>
-            <link>http://localhost:1313/tags/information-security/</link>
+            <link>https://hcampbel.github.io/tags/information-security/</link>
             <pubDate>Fri, 31 Dec 2021 11:30:36 -0500</pubDate>
             <author>campbhu@gmail.com (Hugh Campbell)</author>
-            <guid>http://localhost:1313/tags/information-security/</guid>
+            <guid>https://hcampbel.github.io/tags/information-security/</guid>
             <description></description>
         </item>
         
@@ -82,10 +82,10 @@
         
         <item>
             <title>infosec</title>
-            <link>http://localhost:1313/tags/infosec/</link>
+            <link>https://hcampbel.github.io/tags/infosec/</link>
             <pubDate>Fri, 31 Dec 2021 11:30:36 -0500</pubDate>
             <author>campbhu@gmail.com (Hugh Campbell)</author>
-            <guid>http://localhost:1313/tags/infosec/</guid>
+            <guid>https://hcampbel.github.io/tags/infosec/</guid>
             <description></description>
         </item>
         
@@ -93,10 +93,10 @@
         
         <item>
             <title>malware</title>
-            <link>http://localhost:1313/tags/malware/</link>
+            <link>https://hcampbel.github.io/tags/malware/</link>
             <pubDate>Fri, 31 Dec 2021 11:30:36 -0500</pubDate>
             <author>campbhu@gmail.com (Hugh Campbell)</author>
-            <guid>http://localhost:1313/tags/malware/</guid>
+            <guid>https://hcampbel.github.io/tags/malware/</guid>
             <description></description>
         </item>
         
@@ -104,10 +104,10 @@
         
         <item>
             <title>ransomware</title>
-            <link>http://localhost:1313/tags/ransomware/</link>
+            <link>https://hcampbel.github.io/tags/ransomware/</link>
             <pubDate>Fri, 31 Dec 2021 11:30:36 -0500</pubDate>
             <author>campbhu@gmail.com (Hugh Campbell)</author>
-            <guid>http://localhost:1313/tags/ransomware/</guid>
+            <guid>https://hcampbel.github.io/tags/ransomware/</guid>
             <description></description>
         </item>
         
@@ -115,10 +115,10 @@
         
         <item>
             <title>security</title>
-            <link>http://localhost:1313/tags/security/</link>
+            <link>https://hcampbel.github.io/tags/security/</link>
             <pubDate>Fri, 31 Dec 2021 11:30:36 -0500</pubDate>
             <author>campbhu@gmail.com (Hugh Campbell)</author>
-            <guid>http://localhost:1313/tags/security/</guid>
+            <guid>https://hcampbel.github.io/tags/security/</guid>
             <description></description>
         </item>
         
@@ -126,10 +126,10 @@
         
         <item>
             <title>yearreview</title>
-            <link>http://localhost:1313/tags/yearreview/</link>
+            <link>https://hcampbel.github.io/tags/yearreview/</link>
             <pubDate>Fri, 31 Dec 2021 11:30:36 -0500</pubDate>
             <author>campbhu@gmail.com (Hugh Campbell)</author>
-            <guid>http://localhost:1313/tags/yearreview/</guid>
+            <guid>https://hcampbel.github.io/tags/yearreview/</guid>
             <description></description>
         </item>
         
@@ -137,10 +137,10 @@
         
         <item>
             <title>book</title>
-            <link>http://localhost:1313/tags/book/</link>
+            <link>https://hcampbel.github.io/tags/book/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
             <author>campbhu@gmail.com (Hugh Campbell)</author>
-            <guid>http://localhost:1313/tags/book/</guid>
+            <guid>https://hcampbel.github.io/tags/book/</guid>
             <description></description>
         </item>
         
@@ -148,10 +148,10 @@
         
         <item>
             <title>golang</title>
-            <link>http://localhost:1313/tags/golang/</link>
+            <link>https://hcampbel.github.io/tags/golang/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
             <author>campbhu@gmail.com (Hugh Campbell)</author>
-            <guid>http://localhost:1313/tags/golang/</guid>
+            <guid>https://hcampbel.github.io/tags/golang/</guid>
             <description></description>
         </item>
         
@@ -159,10 +159,10 @@
         
         <item>
             <title>networking</title>
-            <link>http://localhost:1313/tags/networking/</link>
+            <link>https://hcampbel.github.io/tags/networking/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
             <author>campbhu@gmail.com (Hugh Campbell)</author>
-            <guid>http://localhost:1313/tags/networking/</guid>
+            <guid>https://hcampbel.github.io/tags/networking/</guid>
             <description></description>
         </item>
         
@@ -170,10 +170,10 @@
         
         <item>
             <title>programming</title>
-            <link>http://localhost:1313/tags/programming/</link>
+            <link>https://hcampbel.github.io/tags/programming/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
             <author>campbhu@gmail.com (Hugh Campbell)</author>
-            <guid>http://localhost:1313/tags/programming/</guid>
+            <guid>https://hcampbel.github.io/tags/programming/</guid>
             <description></description>
         </item>
         
@@ -181,10 +181,10 @@
         
         <item>
             <title>review</title>
-            <link>http://localhost:1313/tags/review/</link>
+            <link>https://hcampbel.github.io/tags/review/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
             <author>campbhu@gmail.com (Hugh Campbell)</author>
-            <guid>http://localhost:1313/tags/review/</guid>
+            <guid>https://hcampbel.github.io/tags/review/</guid>
             <description></description>
         </item>
         
@@ -192,10 +192,10 @@
         
         <item>
             <title>technical</title>
-            <link>http://localhost:1313/tags/technical/</link>
+            <link>https://hcampbel.github.io/tags/technical/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
             <author>campbhu@gmail.com (Hugh Campbell)</author>
-            <guid>http://localhost:1313/tags/technical/</guid>
+            <guid>https://hcampbel.github.io/tags/technical/</guid>
             <description></description>
         </item>
         
