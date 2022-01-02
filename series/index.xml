@@ -2,14 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Series on Scratchpad</title>
-        <link>https://hcampbel.github.io/series/</link>
+        <link>http://localhost:1313/series/</link>
         <description>Recent content in Series on Scratchpad</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <managingEditor>campbhu@gmail.com (Hugh Campbell)</managingEditor>
         <webMaster>campbhu@gmail.com (Hugh Campbell)</webMaster>
         
-        <atom:link href="https://hcampbel.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+        
+        
+        
+        <item>
+            <title>Technical Book Reviews </title>
+            <link>http://localhost:1313/series/technical-book-reviews/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <author>campbhu@gmail.com (Hugh Campbell)</author>
+            <guid>http://localhost:1313/series/technical-book-reviews/</guid>
+            <description></description>
+        </item>
         
         
     </channel>

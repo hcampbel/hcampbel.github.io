@@ -4,105 +4,105 @@
     
     
     <url>
-        <loc>https://hcampbel.github.io/tags/2021/</loc>
+        <loc>http://localhost:1313/tags/2021/</loc>
         <lastmod>2021-12-31T11:30:36-05:00</lastmod>
     </url>
     
     
     
     <url>
-        <loc>https://hcampbel.github.io/tags/2022/</loc>
+        <loc>http://localhost:1313/tags/2022/</loc>
         <lastmod>2021-12-31T11:30:36-05:00</lastmod>
     </url>
     
     
     
     <url>
-        <loc>https://hcampbel.github.io/tags/cyber/</loc>
+        <loc>http://localhost:1313/tags/cyber/</loc>
         <lastmod>2021-12-31T11:30:36-05:00</lastmod>
     </url>
     
     
     
     <url>
-        <loc>https://hcampbel.github.io/tags/cyber-warfare/</loc>
+        <loc>http://localhost:1313/tags/cyber-warfare/</loc>
         <lastmod>2021-12-31T11:30:36-05:00</lastmod>
     </url>
     
     
     
     <url>
-        <loc>https://hcampbel.github.io/tags/cybersecurity/</loc>
+        <loc>http://localhost:1313/tags/cybersecurity/</loc>
         <lastmod>2021-12-31T11:30:36-05:00</lastmod>
     </url>
     
     
     
     <url>
-        <loc>https://hcampbel.github.io/tags/information-security/</loc>
+        <loc>http://localhost:1313/tags/information-security/</loc>
         <lastmod>2021-12-31T11:30:36-05:00</lastmod>
     </url>
     
     
     
     <url>
-        <loc>https://hcampbel.github.io/tags/infosec/</loc>
+        <loc>http://localhost:1313/tags/infosec/</loc>
         <lastmod>2021-12-31T11:30:36-05:00</lastmod>
     </url>
     
     
     
     <url>
-        <loc>https://hcampbel.github.io/tags/malware/</loc>
+        <loc>http://localhost:1313/tags/malware/</loc>
         <lastmod>2021-12-31T11:30:36-05:00</lastmod>
     </url>
     
     
     
     <url>
-        <loc>https://hcampbel.github.io/posts/</loc>
+        <loc>http://localhost:1313/posts/</loc>
         <lastmod>2021-12-31T11:30:36-05:00</lastmod>
     </url>
     
     
     
     <url>
-        <loc>https://hcampbel.github.io/tags/ransomware/</loc>
+        <loc>http://localhost:1313/tags/ransomware/</loc>
         <lastmod>2021-12-31T11:30:36-05:00</lastmod>
     </url>
     
     
     
     <url>
-        <loc>https://hcampbel.github.io/</loc>
+        <loc>http://localhost:1313/</loc>
         <lastmod>2021-12-31T11:30:36-05:00</lastmod>
     </url>
     
     
     
     <url>
-        <loc>https://hcampbel.github.io/tags/security/</loc>
+        <loc>http://localhost:1313/tags/security/</loc>
         <lastmod>2021-12-31T11:30:36-05:00</lastmod>
     </url>
     
     
     
     <url>
-        <loc>https://hcampbel.github.io/tags/</loc>
+        <loc>http://localhost:1313/tags/</loc>
         <lastmod>2021-12-31T11:30:36-05:00</lastmod>
     </url>
     
     
     
     <url>
-        <loc>https://hcampbel.github.io/2021/12/31/cybersecurity-year-in-review-2021/</loc>
+        <loc>http://localhost:1313/2021/12/31/cybersecurity-year-in-review-2021/</loc>
         <lastmod>2021-12-31T11:30:36-05:00</lastmod>
     </url>
     
     
     
     <url>
-        <loc>https://hcampbel.github.io/tags/yearreview/</loc>
+        <loc>http://localhost:1313/tags/yearreview/</loc>
         <lastmod>2021-12-31T11:30:36-05:00</lastmod>
     </url>
     
@@ -113,26 +113,70 @@
     
     
     <url>
-        <loc>https://hcampbel.github.io/2021/12/31/site-revamp-2022-and-more/</loc>
+        <loc>http://localhost:1313/2021/12/31/site-revamp-2022-and-more/</loc>
         <lastmod>2021-12-31T03:54:05-05:00</lastmod>
     </url>
     
     
     
     <url>
-        <loc>https://hcampbel.github.io/categories/</loc>
+        <loc>http://localhost:1313/tags/book/</loc>
     </url>
     
     
     
     <url>
-        <loc>https://hcampbel.github.io/series/</loc>
+        <loc>http://localhost:1313/categories/</loc>
     </url>
     
     
     
     <url>
-        <loc>https://hcampbel.github.io/whoami/</loc>
+        <loc>http://localhost:1313/tags/golang/</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:1313/tags/networking/</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:1313/tags/programming/</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:1313/tags/review/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:1313/series/</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:1313/tags/technical/</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:1313/series/technical-book-reviews/</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:1313/whoami/</loc>
     </url>
     
     
